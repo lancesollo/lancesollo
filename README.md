@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lancesollo
 - 👀 I’m interested in fintech and algo trading.
 - 🌱 I’m currently learning algo trading and its implementations.
-- 💞️ I’m looking to collaborate on blockchain projects and 
+- 💞️ I’m looking to collaborate on projects and 
 - 📫 How to reach me @lancesilliman@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
