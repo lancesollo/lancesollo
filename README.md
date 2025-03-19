@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @lancesollo
-- 👀 I’m interested in fintech and algo trading.
-- 🌱 I’m currently learning algo trading and its implementations.
+- Hi, I’m Lance Silliman.
+- I’m a computer scientist who strives to be a "jack of all trades."
+- I'm currently working my way towards data and how to be creative with it.
 - 💞️ I’m looking to collaborate on projects and 
 - 📫 How to reach me @lancesilliman@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-lancesollo/lancesollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
